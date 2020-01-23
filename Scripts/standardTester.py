@@ -1,4 +1,4 @@
-# Science Fair 2020 - Aiden Lee and Emelia Lowe - Pedersen
+# Science Fair 2020 - Aiden Lee and Emilia Lowe - Pedersen
 # Sample tester
 # Writes all results to a text file, and also saves it to an array
 
